@@ -1,12 +1,12 @@
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 
-**DATE:**20.09.25
+## DATE:20.09.25
 
-**NAME:**L Jessica effrosini
+## NAME:L Jessica effrosini
 
-**ROLL NO:**212224110026
+## ROLL NO: 212224110026
 
-**DEPARTMENT:**B.E Cse(Iot)
+## DEPARTMENT: B.E Cse(Iot)
 
 ## Aim:
 
@@ -90,8 +90,9 @@ UART transmits and receives data asynchronously, meaning there is no shared cloc
 
 
 ## STM 32 CUBE PROGRAM :
+
 ```
-~~~py
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -353,7 +354,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 
-~~~py
+
 ```
 
 
